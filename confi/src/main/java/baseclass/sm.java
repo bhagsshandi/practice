@@ -19,5 +19,7 @@ public class sm {
 		System.out.println(path+"=======");
 		
 	}
-
+public void stdjd(){
+	
+}
 }
